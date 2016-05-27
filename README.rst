@@ -74,3 +74,5 @@ Some of the code was extracted and adapted from `Flask-SQLAlchemy <http://flask-
 
 :copyright: 2010-2014 by Armin Ronacher.
 :license: BSD, see LICENSE for more details.
+
+
